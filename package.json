@@ -1,6 +1,6 @@
 {
   "name": "build-version-plugin",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "build version plugin",
   "browser": "dist/webpack-plugin.js",
   "module": "dist/webpack-plugin.mjs",
