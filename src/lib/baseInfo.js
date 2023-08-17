@@ -2,8 +2,8 @@
  * @Description  : 基础信息
  * @Author       : wlking
  * @Date         : 2023-08-09 17:15:39
- * @LastEditTime : 2023-08-09 17:38:29
- * @LastEditors  : wlking
+ * @LastEditTime : 2023-08-17 17:59:21
+ * @LastEditors  : 罗肖
  * @FilePath     : \build-version-plugin\src\lib\baseInfo.js
  */
 
@@ -35,7 +35,7 @@ try {
     state = 'warning'
     builder = encodeURIComponent(builder)
   } else {
-    state = 'error'
+    state = 'success'
   }
 } catch (error) {
   state = 'error'

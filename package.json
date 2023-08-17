@@ -22,8 +22,7 @@
     "vue",
     "vue-cli",
     "client",
-    "build-version",
-    "browserify"
+    "build-version"
   ],
   "scripts": {
     "test": "grunt test",
